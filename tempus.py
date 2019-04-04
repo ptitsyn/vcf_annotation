@@ -30,9 +30,11 @@ def fetch_consequences(variant):
         buff = eval(response.read())
         return(buff)
 
-
+#this is the output file
 out=open('tempus.txt','w')
+#this is the input test VCF, renamed for convenience
 vcf_reader = vcf.Reader(filename='t.vcf')
+#print the header
 print("VariantID\tDepth\tSupportingReads\tSupportingReadsPercentage\tExAC_VariantFrequency\tExAC_Consequences")
 out.write("VariantID\tDepth\tSupportingReads\tSupportingReadsPercentage\tExAC_VariantFrequency\tExAC_Consequences\n")
 #this is a debugging variable, comment out for the full
