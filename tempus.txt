@@ -1,0 +1,104 @@
+VariantID	Depth	SupportingReads	SupportingReadsPercentage	ExAC_VariantFrequency	ExAC_Consequences
+1-931393-G-T	4124	95	2	unknown variant	unknown consequences
+1-935222-C-A	1134	652	57	0.661111	['intron_variant', 'non_coding_transcript_exon_variant', 'missense_variant']
+1-1277533-T-C	786	786	100	0.997571	['synonymous_variant', 'non_coding_transcript_exon_variant']
+1-1284490-G-A	228	228	100	0.897299	['5_prime_UTR_variant']
+1-1571850-G-A	4055	94	2	0.000011	['splice_region_variant']
+1-1572579-A-G	3456	26	0	0.002177	['intron_variant']
+1-1575616-T-C	1118	1118	100	0.843984	['intron_variant']
+1-1575784-C-T	3476	266	7	0.094886	['missense_variant']
+1-1577180-C-T	90	50	55	0.488372	['splice_region_variant']
+1-1635004-T-C	4076	4076	100	0.580487	['synonymous_variant', '3_prime_UTR_variant', 'non_coding_transcript_exon_variant']
+1-1635749-C-A	3062	3060	99	0.471720	['synonymous_variant', '3_prime_UTR_variant', 'non_coding_transcript_exon_variant']
+1-1636044-G-A	3702	3702	100	0.564420	['synonymous_variant', '3_prime_UTR_variant', 'non_coding_transcript_exon_variant']
+1-1638994-C-T	1150	454	39	0.164064	['non_coding_transcript_exon_variant', 'missense_variant', '3_prime_UTR_variant']
+1-1647778-C-G	5118	626	12	0.500670	['splice_region_variant']
+1-1647814-T-C	5590	632	11	0.501101	['synonymous_variant', 'non_coding_transcript_exon_variant']
+1-1647871-T-C	5146	640	12	0.500961	['synonymous_variant', 'non_coding_transcript_exon_variant']
+1-1650787-T-C	2636	124	4	0.501135	['intron_variant', 'non_coding_transcript_exon_variant', 'missense_variant']
+1-1650797-ATTTT-GTTTC	2636	74	2	incorrect call	unclear
+1-1650807-T-C	2810	2532	90	0.478368	['synonymous_variant', 'non_coding_transcript_exon_variant']
+1-1650832-A-G	3252	378	11	0.501110	['non_coding_transcript_exon_variant', 'missense_variant']
+1-1650845-G-A	2994	2618	87	0.478357	['non_coding_transcript_exon_variant', 'missense_variant']
+1-1653004-T-C	2376	2376	100	0.848546	['intron_variant']
+1-1653028-C-T	2722	2722	100	0.854939	['splice_region_variant']
+1-1654129-TAAAAAAAT-TAAAAAAT	2198	80	3	incorrect call	unclear
+1-2160735-T-A	2111	50	2	incorrect call	unclear
+1-2164935-G-T	3772	1818	48	unknown variant	unknown consequences
+1-2488153-A-G	2000	998	49	0.544314	['intron_variant', 'non_coding_transcript_exon_variant', 'missense_variant']
+1-2489247-C-G	1634	41	2	incorrect call	unclear
+1-2985885-C-G	184	74	40	0.460045	['intron_variant']
+1-3301721-C-T	1332	686	51	0.329498	['synonymous_variant', 'non_coding_transcript_exon_variant']
+1-3328358-T-C	4016	4012	99	0.889684	['non_coding_transcript_exon_variant', 'missense_variant']
+1-3328659-C-T	5078	2354	46	0.131029	['non_coding_transcript_exon_variant', 'missense_variant']
+1-3329384-C-T	1466	738	50	0.215510	['intron_variant']
+1-3350212-CTGTGTGTGTGT-CTGTGTGTGT	1924	30	1	incorrect call	unclear
+1-6184092-A-G	1802	872	48	0.657011	['intron_variant', 'missense_variant', '3_prime_UTR_variant']
+1-6184728-TGGGGGGGGGGGA-TGGGGGGGGGGGGA	116	22	18	incorrect call	unclear
+1-6196869-A-G	1546	688	44	0.483506	['synonymous_variant', '5_prime_UTR_variant']
+1-6209058-GTCCTCCTCCTCCT-GTCCTCCTCCT	2504	42	1	incorrect call	unclear
+1-6209363-T-C	2378	1054	44	0.401177	['synonymous_variant', '5_prime_UTR_variant']
+1-6211183-G-A	1530	702	45	0.380623	['synonymous_variant', '5_prime_UTR_variant']
+1-6219477-TTTCTTCTTCTTCT-TTTCTTCTTCT	4740	28	0	incorrect call	unclear
+1-6228297-GAAAAAG-GAAAAG	4340	24	0	incorrect call	unclear
+1-6475586-TC-GA	1738	492	28	unknown variant	unknown consequences
+1-6475604-G-A	1964	556	28	unknown variant	unknown consequences
+1-6475686-C-T	2030	794	39	unknown variant	unknown consequences
+1-6481842-A-G	5636	5620	99	unknown variant	unknown consequences
+1-6947717-C-T	1448	1448	100	0.190857	['intron_variant', 'non_coding_transcript_exon_variant', 'missense_variant', '3_prime_UTR_variant']
+1-7723588-C-T	2690	1250	46	0.107831	['synonymous_variant']
+1-7723957-G-A	4658	2198	47	0.444959	['synonymous_variant']
+1-7737799-A-G	1508	710	47	0.549778	['splice_region_variant']
+1-7797043-G-A	3468	20	0	incorrect call	unclear
+1-7811328-CAAAAAAAAT-CAAAAAAAT	2238	22	0	incorrect call	unclear
+1-9782556-C-T	1222	562	45	0.334146	['intron_variant']
+1-10292359-CATATATATATATA-CATATATATATA	2232	70	3	incorrect call	unclear
+1-10292359-CATATATATATATA-CATATATATATATATA	2232	30	1	incorrect call	unclear
+1-10318744-C-A	2532	32	1	incorrect call	unclear
+1-10363203-GA-TT	2346	30	1	incorrect call	unclear
+1-10363209-G-T	2560	42	1	incorrect call	unclear
+1-10435441-TTTGTTGTTGTTGTTGTTGT-TTTGTTGTTGTTGTTGT	2396	54	2	incorrect call	unclear
+1-11167473-T-G	3515	87	2	unknown variant	unknown consequences
+1-11181327-C-T	1474	688	46	0.218437	['synonymous_variant']
+1-11187893-T-C	2382	2382	100	0.998231	['intron_variant']
+1-11190646-G-A	2702	1256	46	0.221518	['synonymous_variant']
+1-11190687-C-T	3318	18	0	incorrect call	unclear
+1-11205058-C-T	2718	1302	47	0.677922	['intron_variant', 'synonymous_variant', 'non_coding_transcript_exon_variant']
+1-11259386-G-A	3318	80	2	0.000008	['synonymous_variant']
+1-11288758-G-A	4182	1908	45	0.742886	['synonymous_variant']
+1-11301714-A-G	994	516	51	0.716975	['synonymous_variant']
+1-11917340-C-T	1860	1860	100	unknown variant	unknown consequences
+1-11917620-TAAAAAAAT-TAAAAAAAAT	1984	1928	97	unknown variant	unknown consequences
+1-11919271-A-G	3830	3828	99	unknown variant	unknown consequences
+1-14068537-C-T	3706	22	0	incorrect call	unclear
+1-14105094-AGAGGAGGAGGAGG-AGAGGAGGAGG	2804	42	1	incorrect call	unclear
+1-14105258-CAAAAAC-CAAAAC	5828	36	0	incorrect call	unclear
+1-14105605-A-G	4272	1896	44	0.000531	['intron_variant', 'missense_variant']
+1-14106394-ACTCC-ACTCCTCC	4808	4734	98	incorrect call	unclear
+1-14107209-T-C	3284	18	0	incorrect call	unclear
+1-14107256-T-C	3218	28	0	incorrect call	unclear
+1-14107932-C-T	4878	2434	49	0.016510	['intron_variant', 'synonymous_variant']
+1-14108559-GAAAAAAAAT-GAAAAAAAAAT	5598	36	0	incorrect call	unclear
+1-14108748-CAAAAAAAAAG-CAAAAAAAAG	3964	106	2	incorrect call	unclear
+1-14108748-CAAAAAAAAAG-CAAAAAAAAAAG	3964	52	1	incorrect call	unclear
+1-14143003-A-G	2392	2390	99	0.825572	['synonymous_variant', 'missense_variant']
+1-16237577-GTTTTTTTTG-GTTTTTTTTTG	2270	20	0	incorrect call	unclear
+1-16248740-A-T	1308	40	3	0.000042	['splice_region_variant']
+1-16255141-GGAGAGAGAGAGAC-GGAGAGAGAGAC	4972	72	1	incorrect call	unclear
+1-16258731-A-G	5870	32	0	incorrect call	unclear
+1-16262465-A-C	1088	70	6	0.099599	['missense_variant']
+1-16262471-A-C	1136	36	3	0.134432	['missense_variant']
+1-16262538-G-A	3532	22	0	0.000053	['missense_variant']
+1-16464673-G-A	1302	650	49	0.378710	['synonymous_variant', 'non_coding_transcript_exon_variant']
+1-16474995-G-A	2438	20	0	0.000008	['non_coding_transcript_exon_variant', 'missense_variant']
+1-16475189-G-A	3184	1634	51	0.000843	['synonymous_variant', 'non_coding_transcript_exon_variant']
+1-17354373-GGAAGAAGAAGAAGAAGAAGAAGAAA-GGAAGAAGAAGAAGAAGAAGAAA	1348	76	5	incorrect call	unclear
+1-17380497-G-T	1164	1164	100	0.972102	['synonymous_variant', 'non_coding_transcript_exon_variant']
+1-19027239-A-G	2096	1000	47	0.374694	['synonymous_variant']
+1-22388891-G-C	4388	4388	100	unknown variant	unknown consequences
+1-22459170-G-A	1680	1676	99	unknown variant	unknown consequences
+1-22919904-C-T	1618	810	50	0.374101	['synonymous_variant']
+1-22922560-G-A	618	266	43	0.466694	['intron_variant']
+1-22923789-T-C	1248	20	1	incorrect call	unclear
+1-22927314-A-G	1968	968	49	0.461132	['intron_variant']
+1-22927326-T-G	1840	880	47	0.391008	['intron_variant']
